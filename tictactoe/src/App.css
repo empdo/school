@@ -44,6 +44,6 @@ ul {
   padding: 0;
 }
 
-text:hover {
+span:hover, p:hover {
   cursor: pointer;
 }
